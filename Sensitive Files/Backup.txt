@@ -1,0 +1,6 @@
+This is the domain for the backup
+backup Airbnb-ipo-34.com and the
+username and password creds are
+
+username: admin
+password: admin
