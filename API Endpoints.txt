@@ -1,4 +1,0 @@
-GET /api/v1/docs
-POST /api/application/admin
-GET /api/v5/search
-POST /api/?cmd=id
