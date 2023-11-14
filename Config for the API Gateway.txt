@@ -1,1 +1,0 @@
-This is the official config for the API Gateway which is nothing honestly.
